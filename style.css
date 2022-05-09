@@ -120,3 +120,7 @@ body{
     color: #0099DD;
     cursor: pointer;
 }
+
+#but2:hover{
+    color: #03648e;
+}
